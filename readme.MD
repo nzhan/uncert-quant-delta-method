@@ -1,4 +1,4 @@
-Code for "Uncertainty quantification in machine learning and nonlinear least squares regression models". Please see si.org or si.pdf.
+Code and supporting information for "Uncertainty quantification in machine learning and nonlinear least squares regression models". Please see si.org or si.pdf.
 
 @article{zhan-2021-uncer-quant,
   author =	 {Ni Zhan and John R. Kitchin},
