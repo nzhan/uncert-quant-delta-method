@@ -1,0 +1,10 @@
+*.eps
+*.pdf
+*.tex
+obipy-resources/
+_minted-si-v2/
+_minted-si/
+_minted-check-ou-plots/
+__pycache__/
+.ob-jupyter/
+
